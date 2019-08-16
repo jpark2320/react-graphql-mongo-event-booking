@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.shell.osx": "zsh",
+    
+    // Prettier
+    "editor.formatOnSave": false,
+    "[javascript]": {
+        "editor.formatOnSave": true
+    }
+}
